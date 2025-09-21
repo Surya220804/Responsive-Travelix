@@ -1,6 +1,6 @@
 # ✈️ Travelix – Responsive Travel Website  
 
-A modern, fully responsive travel website built with **[your tech stack – e.g., HTML, CSS, JavaScript]**.  
+A modern, fully responsive travel website built with **HTML, CSS, JavaScript**.  
 Travelix allows users to explore destinations, check travel packages, and get inspired for their next trip.  
 
 ---
